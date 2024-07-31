@@ -1,6 +1,6 @@
 # Grocery Store Management System (GSMS)
 
-![GSMS Logo](homepage.png)
+![GSMS Logo](Homepage.png)
 
 ## Overview
 
