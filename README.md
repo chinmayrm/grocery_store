@@ -1,8 +1,6 @@
-Here's a comprehensive `README.md` file for your project:
-
----
-
 # Grocery Store Management System (GSMS)
+
+![GSMS Logo](homepage.png)
 
 ## Overview
 
