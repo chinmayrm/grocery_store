@@ -14,7 +14,7 @@ The Grocery Store Management System (GSMS) is a web-based application designed f
 - **MySQL**: For database management.
 - **HTML/CSS**: For front-end design and layout.
 - **JavaScript**: For interactivity and client-side scripting.
-- **Flask**: (If used) For handling backend logic and API endpoints.
+- **Flask**: For handling backend logic and API endpoints.
 
 ## Installation
 
