@@ -44,7 +44,7 @@ The Grocery Store Management System (GSMS) is a web-based application designed f
 3. **Setup the Database**
 
    - Create a new MySQL database.
-   - Import the SQL schema from `schema.sql` (if provided) into your database.
+   - create a required tables and make sure merge some things using foreign key.
   
    - ![GSMS Logo](DBMS.png)
 
