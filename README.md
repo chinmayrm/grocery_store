@@ -28,11 +28,6 @@ The Grocery Store Management System (GSMS) is a web-based application designed f
 
 1. **Clone the Repository**
 
-   ```bash
-   git clone https://github.com/chinmayrm/gsms.git
-   cd gsms
-   ```
-
 2. **Install Dependencies**
 
    Install the required Python packages:
